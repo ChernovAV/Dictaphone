@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_RECORD_Example_1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">запись</string>
+</resources>
